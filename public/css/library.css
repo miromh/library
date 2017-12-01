@@ -1,0 +1,169 @@
+body{
+	background-image: url('../img/background.jpg');
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+.mce-notification {
+    display: none !important;
+}
+.admin{
+	background-image: none !important;
+	background-color: #EAEBD0FF;
+}
+.border{
+	border-right: 1px solid #666;
+}
+#books{
+	margin-top: 5%;
+	color: #F2F2F2E5;
+	background-color: #48342BE9;
+	box-shadow: 0 0 50px #FFF;
+}
+#auth{
+	box-shadow: 0 0 50px #FFF;
+}
+
+#users{
+	margin-top: 5%;
+	background-color: #515151FF;
+	box-shadow: 0 0 50px #000000FF;
+	color: #fff;
+}
+
+#admin{
+	color: #ffffff;
+	background-color: #294BA7;
+}
+#new-book{
+	color: #ffffff;
+	background-color: #15C925;
+}
+#new-author{
+	color: #ffffff;
+	background-color: #1368BD;
+}
+#edit-form{
+	border-bottom: 1px solid;
+	padding: 10px;
+	width: 300px;
+	margin: auto;
+	text-align: center;
+}
+#delete-form{
+	width: 250px;
+	margin-top: 100px;
+	margin: auto;
+	text-align: center;
+}
+#book-name{
+	text-decoration: underline;
+}
+.empty-space{
+	height: 15px;
+}
+.empty-space-large{
+	padding: 30px;
+}
+.book-cover{
+	max-height: 500px;
+	max-width: 100%;
+	box-shadow: 0 0 10px #000;
+}
+#single-book-container{
+	color: #F2F2F2E5;
+	background-color: #48342BE9;
+	padding: 50px;
+	box-shadow: 0 0 20px #000000FF;
+	
+	text-align: center;
+	background-repeat: no-repeat;
+}
+a:visited{
+	/*color: #fff;*/
+}
+a{
+	/*color: #fff;	*/
+}
+.author{
+	background-color: #48342BE9;
+	color: #fff;
+	text-align: center;
+	padding: 100px;
+}
+.author-create{
+	background-color: #48342BE9;
+	padding: 100px;
+	color: #fff;
+}
+.book-cover-thumb{	
+	max-width: 100%;
+	padding: 20px 10px 0px 10px;	
+}
+.book-row{
+	margin-top: 0px;
+	color: #F2F2F2E5;
+	background-color: #48342BE9;
+	box-shadow: 0 0 10px #515151FF;
+	padding-bottom: 20px;
+}
+.btn-warning{
+	color: #222;
+}
+.mce-branding-powered-by{
+	display: none;
+}
+.small-image{
+	max-width: 100%;
+}
+.books-author-page{
+	margin: auto;
+	height: 100px;
+}
+#pagination{
+	text-align: center;
+}
+.edit, .edit:hover{
+	padding-left: 15px;
+	color: #D5D52EFF;
+}
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+.book-cover-small{
+	max-width: 100px;
+}
+.white{
+	color: #FFE !important;
+}
+.white:visited{
+	color: #FFE !important;	
+}
+.white:hover{
+	color: #DD8 !important;
+	text-decoration: none;
+}
+.app{
+	border: 0;
+	background-color: #6D6D6DAD;
+	box-shadow: 0 0 20px #111;
+}
+.navbar-right{
+	background-color: #606060FF;
+}
+.navbar{
+	position: fixed;	
+}
+.content{
+	margin-top: 70px;
+}
